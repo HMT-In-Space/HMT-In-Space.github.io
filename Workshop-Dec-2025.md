@@ -28,6 +28,10 @@ The workshop objective is to develop a strategic, collaborative roadmap for assu
 human-machine space operations, multi-stakeholder collaborations and consortium, and a technology and
 policy research/analysis agenda to accelerate a sustainable human presence in space.
 
+## Registration
+
+Registration is by invitation only -- a link will be provided
+
 ## Agenda Overview
 
 ### Day 1 (Dec 8, 2025)
