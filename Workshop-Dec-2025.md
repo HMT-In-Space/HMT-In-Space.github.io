@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Humans in an Autonomous and Robotic World
+
 ## Exploring and Enabling Human-Machine Partnerships for Sustained Deep-Space Presence including Moon and Mars
 
 **Workshop Dates:**  December 8-9, 2025
