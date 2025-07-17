@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Humans in an Autonomous and Robotic World: Exploring and Enabling Human-Machine Partnerships for Sustained Deep-Space Presence including Moon and Mars
+# Humans in an Autonomous and Robotic World
+
+## Exploring and Enabling Human-Machine Partnerships for Sustained Deep-Space Presence including Moon and Mars
 
 **Workshop Dates:**  December 8-9, 2025
 
@@ -112,7 +114,7 @@ policy research/analysis agenda to accelerate a sustainable human presence in sp
 
 ## Organizers
 
-| **Mark Shelhamer**  | **Amy Haufler**, **Karl Hibbetts**   | **Peter Kazanzides**  |
+| **Mark Shelhamer**  | **Amy Haufler**, **Karl Hibbitts**   | **Peter Kazanzides**  |
 | Johns Hopkins       | Johns Hopkins                        | Johns Hopkins         |
 | School of Medicine  | Applied Physics Lab                  | Whiting School of Engineering |
 
