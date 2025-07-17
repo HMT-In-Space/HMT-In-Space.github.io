@@ -39,11 +39,11 @@ Registration is by invitation only -- a link will be provided
 | Time        | Event                                                     |
 |:------------|:----------------------------------------------------------|
 | 09:00-09:30 | **Introduction and Welcome**                              |
-|             | **Panel 1: Government and National Lab Perspectives**     |
+| 09:30-10:30 | **Panel 1: Government and National Lab Perspectives and Policy **     |
 |             | **Coffee Break**                                          |
-|             | **Panel 2: National Security Space Perspective**          |
+|             | **Panel 2: National Security Space Perspectives and Policy**          |
 |             | **Lunch**                                                 |
-|             | **Panel 3: Private Industry Perspective**                 |
+|             | **Panel 3: Private Industry Perspectives**                |
 |             | **Coffee Break**                                          |
 |             | **Panel 4: Academia, UARC, and FFRDC Perspectives**       |
 
@@ -51,30 +51,29 @@ Registration is by invitation only -- a link will be provided
 
 | Time        | Event                                                     |
 |:------------|:----------------------------------------------------------|
-|             | **Panel 5: Astronaut Performance through Assured Health** |
+| 09:00-10:00 | **Panel 5: Astronaut Performance through Assured Health** |
 |             | **Coffee Break**                                          |
 |             | **Panel 6: Human-Machine Operations and Integration**     |
 |             | **Lunch**                                                 |
 |             | **Panel 7: Astronaut Perspectives on HMT Operations**     |
 |             | **Coffee Break**                                          |
 |             | **Panel 8: Developing a Consortium**                      |
-|             | **Extra Panel: Space Policy**                             |
 
 ## Panel Details
 
-### Panel 1: Government and National Lab Perspectives
+### Panel 1: Government and National Lab Perspectives and Policy
 
 **Moderator:** TBD
 
 **Panelists:** TBD
 
-### Panel 2: National Security Space Perspective
+### Panel 2: National Security Space Perspectives and Policy
 
 **Moderator:** TBD
 
 **Panelists:** TBD
 
-### Panel 3: Private Industry Perspective
+### Panel 3: Private Industry Perspectives
 
 **Moderator:** TBD
 
@@ -105,12 +104,6 @@ Registration is by invitation only -- a link will be provided
 **Panelists:** TBD
 
 ### Panel 8: Developing a Consortium: Integrated Human Machine Partnerships for a Sustained Presence, Moon to Mars
-
-**Moderator:** TBD
-
-**Panelists:** TBD
-
-### Extra Panel: Space Policy
 
 **Moderator:** TBD
 
