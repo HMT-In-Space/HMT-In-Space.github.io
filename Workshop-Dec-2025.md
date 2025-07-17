@@ -39,7 +39,7 @@ Registration is by invitation only -- a link will be provided
 | Time        | Event                                                     |
 |:------------|:----------------------------------------------------------|
 | 09:00-09:30 | **Introduction and Welcome**                              |
-| 09:30-10:30 | **Panel 1: Government and National Lab Perspectives and Policy **     |
+| 09:30-10:30 | **Panel 1: Government and National Lab Perspectives and Policy**     |
 |             | **Coffee Break**                                          |
 |             | **Panel 2: National Security Space Perspectives and Policy**          |
 |             | **Lunch**                                                 |
