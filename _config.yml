@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: <a href="/index.html" style="color:white;text-decoration:none">HMT in Space</a>
+description: Human-Machine Teaming in Space
+show_downloads: false
+navbar-links:
+  Home: "./index.md"
