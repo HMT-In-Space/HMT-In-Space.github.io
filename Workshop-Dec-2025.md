@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Exploring and Enabling Human-Machine Partnerships for Sustained Deep-Space Presence including Moon and Mars
+## Exploring and Enabling Human-Machine Partnerships for Sustained Deep-Space Presence including Moon and Mars
 
 **Workshop Dates:**  December 8-9, 2025
 
