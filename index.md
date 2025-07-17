@@ -6,5 +6,5 @@ Our goal is to explore requirements and build collaborations to grow a new Space
 
 ## Workshops
 
-* [Humans in an autonomous and robotic world](./Workshop-Dec-2025.html): Dec 8-9, 2025
+* [Humans in an Autonomous and Robotic World](./Workshop-Dec-2025.html): Dec 8-9, 2025
 
