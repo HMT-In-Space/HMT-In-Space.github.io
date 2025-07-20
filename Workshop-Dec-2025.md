@@ -118,4 +118,4 @@ Registration is by invitation only -- a link will be provided
 
 ## Support
 
-NEXUS
+This workshop is made possible by funding from the Johns Hopkins Nexus Award program.
