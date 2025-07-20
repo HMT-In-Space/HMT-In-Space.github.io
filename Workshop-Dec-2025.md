@@ -111,10 +111,8 @@ Registration is by invitation only -- a link will be provided
 
 ## Organizers
 
-| Mark Shelhamer      |    Amy Haufler, Karl Hibbitts        | Peter Kazanzides      |
-|:-------------------:|:------------------------------------:|:---------------------:|
-| Johns Hopkins       | Johns Hopkins                        | Johns Hopkins         |
-| School of Medicine  | Applied Physics Lab                  | Whiting School of Engineering |
+| Mark Shelhamer    |  Amy Haufler, Karl Hibbitts    | Peter Kazanzides    |
+|:-----------------:|:------------------------------:|:-------------------:|
 | ![](images/SOM.logos.rgb_vertical.blue.png) | ![](images/APL.logos_vertical.blue.png) | ![](images/WSE.logo.rgb_vertical.blue.png) |
 
 
