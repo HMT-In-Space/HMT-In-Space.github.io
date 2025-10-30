@@ -28,6 +28,8 @@ The workshop objective is to develop a strategic, collaborative roadmap for assu
 human-machine space operations, multi-stakeholder collaborations and consortium, and a technology and
 policy research/analysis agenda to accelerate a sustainable human presence in space.
 
+This is an unclassified workshop and no CUI material will be discussed.
+
 ## Registration
 
 Registration is by invitation only -- a link will be provided
@@ -38,6 +40,7 @@ Registration is by invitation only -- a link will be provided
 
 | Time        | Event                                                     |
 |:------------|:----------------------------------------------------------|
+| 08:00       | **Breakfast**                                             |
 | 09:00       | **Introduction and Welcome**                              |
 |             | **Panel 1: Civil Space Perspective**                      |
 |             | **Coffee Break**                                          |
@@ -46,11 +49,13 @@ Registration is by invitation only -- a link will be provided
 |             | **Panel 3: "New" Space Perspective**                      |
 |             | **Coffee Break**                                          |
 |             | **Panel 4: Research and Analysis Stakeholder Perspective** |
+| 17:00       | **Reception** (until 19:00)                               |
 
 ### Day 2 (Dec 9, 2025)
 
 | Time        | Event                                                     |
 |:------------|:----------------------------------------------------------|
+| 08:00       | **Breakfast**                                             |
 | 09:00       | **Keynote and Discussion**                                |
 |             | **Panel 5: Astronaut Performance through Assured Health** |
 |             | **Coffee Break**                                          |
