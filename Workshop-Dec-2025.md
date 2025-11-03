@@ -129,7 +129,7 @@ Registration is by invitation only -- a link will be provided
 - Dan Buckland, Associate Professor, Emergency Medicine, University of Wisconsin-Madison
 - Dana Levin, Medical Director and Chief Flight Surgeon, Vast Space
 - Dawn Kernagis, Director of Scientific Research, DEEP
-
+- Emmanuel Urquieta, Vice Chair of Aerospace Medicine and Associate Professor of Medicine, University of Central Florida
 
 ### Panel 6: Human-Machine Operations and Integration
 
