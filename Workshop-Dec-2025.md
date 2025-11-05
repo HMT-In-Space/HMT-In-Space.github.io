@@ -10,7 +10,9 @@ layout: default
 
 **Venue:** Johns Hopkins University Bloomberg Center, 555 Pennsylvania Ave., Washington DC
 
-**Room:** 
+**Room:**
+
+**Dress Code:** Business casual
 
 ## Description
 
@@ -91,7 +93,7 @@ Registration is by invitation only -- a link will be provided
 **Panelists:**
 - Charles Anderson, Deputy Mission Area Executive, APL Space Sector
 - Ernest B. Webb, Division Chief, Medical Operations and Standards, Office of the Air and Space Force Surgeon General
-- James Curbo, Chief Scientist, Cyberoperations, APL
+- James Curbo, Chief Scientist, Constrained Cyber Solutions Group, APL
 
 
 ### Panel 3: "New" Space Perspective
