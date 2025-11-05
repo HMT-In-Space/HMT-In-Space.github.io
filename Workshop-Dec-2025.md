@@ -142,7 +142,7 @@ Registration is by invitation only -- a link will be provided
 - Shirley Dyke, Professor, School of Mechanical Engineering, Purdue University
 - David Handelman, Senior Staff Roboticist and Project Manager, Research and Exploratory Development Department, APL
 - Colleen Hartman, Director of Physics, Aeronautics and Space Sciences, National Academies of Sciences, Engineering, and Medicine
-- TBD
+- Çetin Meriçli, Co-founder and CEO, Atlas Robotics
 
 ### Panel 7: Astronaut Perspectives on HMT Operations
 
