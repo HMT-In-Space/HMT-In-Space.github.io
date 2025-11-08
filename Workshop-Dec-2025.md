@@ -14,6 +14,8 @@ layout: default
 
 **Dress Code:** Business casual
 
+**Travel Information:** [here](./Workshop-Travel.html)
+
 ## Description
 
 Through the Artemis program, astronauts will return to the Moon in 2028, supporting the American goal of
