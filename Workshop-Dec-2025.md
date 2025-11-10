@@ -75,12 +75,12 @@ Registration is by invitation only -- a link will be provided
 
 ### Introduction and Welcome
 - Ray Jayawardhana, Provost, Johns Hopkins University
-- Jason Kalirai, Mission Area Executive, APL Space Sector
+- Jason Kalirai, Mission Area Executive for Space Formulation, Johns Hopkins APL
 
 ### Panel 1: Civil Space Perspective
 
 **Moderator:**
-- Phil Larson, Chief of Strategy and Engagement, APL Space Sector
+- Phil Larson, Chief of Strategy and Engagement, Johns Hopkins APL
 
 **Panelists:**
 - Sarah Brothers, Director, Commercial Remote Sensing Regulatory Affairs Division, Office of Space Commerce, U.S. Dept. of Commerce
@@ -90,12 +90,12 @@ Registration is by invitation only -- a link will be provided
 ### Panel 2: National Security Space Perspective
 
 **Moderator:**
-- Emma Rainey, Engineering Program Manager, APL Space Sector
+- Emma Rainey, Engineering Program Manager, Johns Hopkins APL
 
 **Panelists:**
-- Charles Anderson, Deputy Mission Area Executive, APL Space Sector
+- Charles Anderson, Deputy Mission Area Executive for National Security Space, Johns Hopkins APL
 - Ernest B. Webb, Division Chief, Medical Operations and Standards, Office of the Air and Space Force Surgeon General
-- James Curbo, Chief Scientist, Constrained Cyber Solutions Group, APL
+- James Curbo, Chief Scientist, Constrained Cyber Solutions Group, Johns Hopkins APL
 
 
 ### Panel 3: "New" Space Perspective
@@ -116,8 +116,8 @@ Registration is by invitation only -- a link will be provided
 
 **Panelists:**
 - James Bellingham, Professor and Executive Director, Institute for Assured Autonomy, JHU
-- Christine Fox, Senior Fellow, APL
-- Robert Braun, Head, APL Space Sector, and Professor, Dept. of Mechanical Engineering, JHU
+- Christine Fox, Senior Fellow, Johns Hopkins APL
+- Robert Braun, Space Sector Head, Johns Hopkins APL, and Professor, Dept. of Mechanical Engineering, JHU
 - David Koelle, Director of Engineering, Human-Centered AI, Charles River Analytics
 
 
@@ -142,7 +142,7 @@ Registration is by invitation only -- a link will be provided
 
 **Panelists:**
 - Shirley Dyke, Professor, School of Mechanical Engineering, Purdue University
-- David Handelman, Senior Staff Roboticist and Project Manager, Research and Exploratory Development Department, APL
+- David Handelman, Senior Staff Roboticist, Johns Hopkins APL
 - Colleen Hartman, Director of Physics, Aeronautics and Space Sciences, National Academies of Sciences, Engineering, and Medicine
 - Cetin Mericli, Co-founder and CEO, Atlas Robotics
 
