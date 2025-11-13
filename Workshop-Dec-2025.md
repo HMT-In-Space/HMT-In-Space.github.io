@@ -74,8 +74,10 @@ Registration is by invitation only -- a link will be provided
 ## Agenda Details
 
 ### Introduction and Welcome
+- Amy Haufler, Karl Hibbitts, Peter Kazanzides, Mark Shelhamer, Organizers, JHU / APL
 - Ray Jayawardhana, Provost, Johns Hopkins University
 - Jason Kalirai, Mission Area Executive for Space Formulation, Johns Hopkins APL
+- James Bellingham, Professor and Executive Director, Institute for Assured Autonomy, JHU
 
 ### Panel 1: Civil Space Perspective
 
