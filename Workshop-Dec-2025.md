@@ -101,7 +101,7 @@ Registration is by invitation only -- a link will be provided
 ### Panel 3: "New" Space Perspective
 
 **Moderator:**
-- TBD
+- Alicia Carey, Formulation Manager - New Business, Johns Hopkins APL
 
 **Panelists:**
 - Ruth Stillwell, Executive Director, Aerospace Policy Solutions, LLC
@@ -119,7 +119,7 @@ Registration is by invitation only -- a link will be provided
 - Christine Fox, Senior Fellow, Johns Hopkins APL
 - Robert Braun, Space Sector Head, Johns Hopkins APL, and Professor, Dept. of Mechanical Engineering, JHU
 - David Koelle, Director of Engineering, Human-Centered AI, Charles River Analytics
-
+- Federico Rossi, Robotics Technologist, Jet Propulsion Laboratory (JPL)
 
 ### Keynote and Discussion
 - Brian Weeden, Director of Civil and Commercial Policy, Center for Space Policy and Strategy
@@ -145,6 +145,7 @@ Registration is by invitation only -- a link will be provided
 - David Handelman, Senior Staff Roboticist, Johns Hopkins APL
 - Colleen Hartman, Director of Physics, Aeronautics and Space Sciences, National Academies of Sciences, Engineering, and Medicine
 - Cetin Mericli, Co-founder and CEO, Atlas Robotics
+- Julie Townsend, Assistant Section Manager, Jet Propulsion Laboratory (JPL)
 
 ### Panel 7: Astronaut Perspectives on HMT Operations
 
