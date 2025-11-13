@@ -107,7 +107,7 @@ Registration is by invitation only -- a link will be provided
 - Ruth Stillwell, Executive Director, Aerospace Policy Solutions, LLC
 - Janna Lewis, Senior Vice President of Policy, Astroscale U.S.
 - Ben Bussey, Chief Scientist, Intuitive Machines
-
+- Andrew J. (AJ) Gemer, CTO & Co-Founder, Lunar Outpost
 
 ### Panel 4: Research and Analysis Stakeholder Perspective
 
