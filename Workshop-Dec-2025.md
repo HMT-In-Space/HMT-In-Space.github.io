@@ -10,7 +10,7 @@ layout: default
 
 **Venue:** Johns Hopkins University Bloomberg Center, 555 Pennsylvania Ave., Washington DC
 
-**Room:**
+**Room:** The Kenny Link (Rooms 426/428/430)
 
 **Dress Code:** Business casual
 
