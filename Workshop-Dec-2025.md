@@ -139,6 +139,9 @@ Registration is by invitation only -- a link will be provided
 
 ### Panel 6: Human-Machine Operations and Integration
 
+**Objective:**
+The objective is to extract cross-domain lessons on how humans and autonomous systems can function as teams -- safely, effectively, and accountably -- in high-consequence environments such as space, medicine, national security, and critical infrastructure. As autonomy grows, machines must understand context and human intent, while humans must maintain awareness and calibrated trust. Effective teaming rests on sound interfaces, training, and verification. Together, human and machine partners must manage cognitive load, fatigue, faults, and off-nominal conditions to ensure safe, adaptive performance.
+
 **Moderators:**
 - Colleen Hartman, Director of Physics, Aeronautics and Space Sciences, National Academies of Sciences, Engineering, and Medicine
 - Peter Kazanzides, Research Professor, Computer Science, JHU
