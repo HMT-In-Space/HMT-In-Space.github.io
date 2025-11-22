@@ -139,15 +139,17 @@ Registration is by invitation only -- a link will be provided
 
 ### Panel 6: Human-Machine Operations and Integration
 
-**Moderator:**
+**Moderators:**
+- Colleen Hartman, Director of Physics, Aeronautics and Space Sciences, National Academies of Sciences, Engineering, and Medicine
 - Peter Kazanzides, Research Professor, Computer Science, JHU
 
 **Panelists:**
 - Shirley Dyke, Professor, School of Mechanical Engineering, Purdue University
 - David Handelman, Senior Staff Roboticist, Johns Hopkins APL
-- Colleen Hartman, Director of Physics, Aeronautics and Space Sciences, National Academies of Sciences, Engineering, and Medicine
 - Cetin Mericli, Co-founder and CEO, Atlas Robotics
 - Julie Townsend, Assistant Section Manager, Jet Propulsion Laboratory (JPL)
+- Steve McGuire, Assistant Professor and Lead, Human-Aware Robotic Exploration Lab,
+University of California Santa Cruz
 
 ### Panel 7: Astronaut Perspectives on HMT Operations
 
