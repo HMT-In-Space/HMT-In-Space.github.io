@@ -46,14 +46,15 @@ Registration is by invitation only -- a link will be provided
 |:------------|:----------------------------------------------------------|
 | 08:00       | **Breakfast**                                             |
 | 09:00       | **Introduction and Welcome**                              |
-|             | **Panel 1: Civil Space Perspective**                      |
-|             | **Coffee Break**                                          |
-|             | **Panel 2: National Security Space Perspective**          |
-|             | **Lunch**                                                 |
-|             | **Panel 3: "New" Space Perspective**                      |
-|             | **Coffee Break**                                          |
-|             | **Panel 4: Research and Analysis Stakeholder Perspective** |
-| 17:00       | **Reception** (until 19:00)                               |
+| 09:45       | **Panel 1: Civil Space Perspective**                      |
+| 10:45       | **Coffee Break**                                          |
+| 11:15       | **Panel 2: National Security Space Perspective**          |
+| 12:15       | **Lunch**                                                 |
+| 01:30       | **Panel 3: "New" Space Perspective**                      |
+| 02:30       | **Coffee Break**                                          |
+| 03:00       | **Panel 4: Research and Analysis Stakeholder Perspective** |
+| 04:00       | **Small Group Discussions**                               |
+| 05:00       | **Reception** (until 07:00)                               |
 
 ### Day 2 (Dec 9, 2025)
 
@@ -61,13 +62,13 @@ Registration is by invitation only -- a link will be provided
 |:------------|:----------------------------------------------------------|
 | 08:00       | **Breakfast**                                             |
 | 09:00       | **Keynote and Discussion**                                |
-|             | **Panel 5: Astronaut Performance through Assured Health** |
-|             | **Coffee Break**                                          |
-|             | **Panel 6: Human-Machine Operations and Integration**     |
-|             | **Lunch**                                                 |
-|             | **Panel 7: Astronaut Perspectives on HMT Operations**     |
-|             | **Coffee Break**                                          |
-|             | **Panel 8: Developing a Consortium**                      |
+| 09:45       | **Panel 5: Astronaut Performance through Assured Health** |
+| 10:45       | **Coffee Break**                                          |
+| 11:15       | **Panel 6: Human-Machine Operations and Integration**     |
+| 12:15       | **Lunch**                                                 |
+| 01:30       | **Panel 7: Astronaut Perspectives on HMT Operations**     |
+| 02:30       | **Coffee Break**                                          |
+| 03:00       | **Panel 8: Developing a Consortium**                      |
 |             | - Facilitated small group discussions                     |
 |             | - Report outs - the way forward                           |
 
