@@ -45,7 +45,7 @@ Registration is by invitation only -- a link will be provided
 | Time        | Event                                                     |
 |------------:|:----------------------------------------------------------|
 |  8:00 AM    | **Breakfast**                                             |
-|  9:00 AM    | **Introduction and Welcome**                              |
+|  9:00 AM    | **Introduction and Welcome** [(info)](#introduction-and-welcome) |
 |  9:45 AM    | **Panel 1: Civil Space Perspective**                      |
 | 10:45 AM    | **Coffee Break**                                          |
 | 11:15 AM    | **Panel 2: National Security Space Perspective**          |
