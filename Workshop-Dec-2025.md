@@ -61,7 +61,7 @@ Registration is by invitation only -- a link will be provided
 | Time        | Event                                                     |
 |------------:|:----------------------------------------------------------|
 |  8:00 AM    | **Breakfast**                                             |
-|  9:00 AM    | **Keynote and Discussion**                                |
+|  9:00 AM    | **Keynote and Discussion** [(info)](#keynote-and-discussion) |
 |  9:45 AM    | **Panel 5: Astronaut Performance through Assured Health** [(info)](#panel-5-astronaut-performance-through-assured-health) |
 | 10:45 AM    | **Coffee Break**                                          |
 | 11:15 AM    | **Panel 6: Human-Machine Operations and Integration** [(info)](#panel-6-human-machine-operations-and-integration) |
