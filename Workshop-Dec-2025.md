@@ -43,32 +43,32 @@ Registration is by invitation only -- a link will be provided
 ### Day 1 (Dec 8, 2025)
 
 | Time        | Event                                                     |
-|:------------|:----------------------------------------------------------|
-| 08:00       | **Breakfast**                                             |
-| 09:00       | **Introduction and Welcome**                              |
-| 09:45       | **Panel 1: Civil Space Perspective**                      |
-| 10:45       | **Coffee Break**                                          |
-| 11:15       | **Panel 2: National Security Space Perspective**          |
-| 12:15       | **Lunch**                                                 |
-| 01:30       | **Panel 3: "New" Space Perspective**                      |
-| 02:30       | **Coffee Break**                                          |
-| 03:00       | **Panel 4: Research and Analysis Stakeholder Perspective** |
-| 04:00       | **Small Group Discussions**                               |
-| 05:00       | **Reception** (until 07:00)                               |
+|------------:|:----------------------------------------------------------|
+|  8:00 AM    | **Breakfast**                                             |
+|  9:00 AM    | **Introduction and Welcome**                              |
+|  9:45 AM    | **Panel 1: Civil Space Perspective**                      |
+| 10:45 AM    | **Coffee Break**                                          |
+| 11:15 AM    | **Panel 2: National Security Space Perspective**          |
+| 12:15 PM    | **Lunch**                                                 |
+|  1:30 PM    | **Panel 3: "New" Space Perspective**                      |
+|  2:30 PM    | **Coffee Break**                                          |
+|  3:00 PM    | **Panel 4: Research and Analysis Stakeholder Perspective** |
+|  4:00 PM    | **Small Group Discussions**                               |
+|  5:00 PM    | **Reception** (until 7 PM)                             |
 
 ### Day 2 (Dec 9, 2025)
 
 | Time        | Event                                                     |
-|:------------|:----------------------------------------------------------|
-| 08:00       | **Breakfast**                                             |
-| 09:00       | **Keynote and Discussion**                                |
-| 09:45       | **Panel 5: Astronaut Performance through Assured Health** |
-| 10:45       | **Coffee Break**                                          |
-| 11:15       | **Panel 6: Human-Machine Operations and Integration**     |
-| 12:15       | **Lunch**                                                 |
-| 01:30       | **Panel 7: Astronaut Perspectives on HMT Operations**     |
-| 02:30       | **Coffee Break**                                          |
-| 03:00       | **Panel 8: Developing a Consortium**                      |
+|------------:|:----------------------------------------------------------|
+|  8:00 AM    | **Breakfast**                                             |
+|  9:00 AM    | **Keynote and Discussion**                                |
+|  9:45 AM    | **Panel 5: Astronaut Performance through Assured Health** |
+| 10:45 AM    | **Coffee Break**                                          |
+| 11:15 AM    | **Panel 6: Human-Machine Operations and Integration**     |
+| 12:15 PM    | **Lunch**                                                 |
+|  1:30 PM    | **Panel 7: Astronaut Perspectives on HMT Operations**     |
+|  2:30 PM    | **Coffee Break**                                          |
+|  3:00 PM    | **Panel 8: Developing a Consortium**                      |
 |             | - Facilitated small group discussions                     |
 |             | - Report outs - the way forward                           |
 
