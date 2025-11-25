@@ -46,13 +46,13 @@ Registration is by invitation only -- a link will be provided
 |------------:|:----------------------------------------------------------|
 |  8:00 AM    | **Breakfast**                                             |
 |  9:00 AM    | **Introduction and Welcome** [(info)](#introduction-and-welcome) |
-|  9:45 AM    | **Panel 1: Civil Space Perspective**                      |
+|  9:45 AM    | **Panel 1: Civil Space Perspective** [(info)](#panel-1--civil-space-perspective) |
 | 10:45 AM    | **Coffee Break**                                          |
-| 11:15 AM    | **Panel 2: National Security Space Perspective**          |
+| 11:15 AM    | **Panel 2: National Security Space Perspective** [(info)](#panel-2--national-security-space-perspective) |
 | 12:15 PM    | **Lunch**                                                 |
-|  1:30 PM    | **Panel 3: "New" Space Perspective**                      |
+|  1:30 PM    | **Panel 3: "New" Space Perspective** [(info)](#panel-3---new--space-perspective) |
 |  2:30 PM    | **Coffee Break**                                          |
-|  3:00 PM    | **Panel 4: Research and Analysis Stakeholder Perspective** |
+|  3:00 PM    | **Panel 4: Research and Analysis Stakeholder Perspective** [(info)](#panel-4--research-and-analysis-stakeholder-perspective) |
 |  4:00 PM    | **Small Group Discussions**                               |
 |  5:00 PM    | **Reception** (until 7 PM)                             |
 
@@ -62,13 +62,13 @@ Registration is by invitation only -- a link will be provided
 |------------:|:----------------------------------------------------------|
 |  8:00 AM    | **Breakfast**                                             |
 |  9:00 AM    | **Keynote and Discussion**                                |
-|  9:45 AM    | **Panel 5: Astronaut Performance through Assured Health** |
+|  9:45 AM    | **Panel 5: Astronaut Performance through Assured Health** [(info)](#panel-5--astronaut-performance-through-assured-health) |
 | 10:45 AM    | **Coffee Break**                                          |
-| 11:15 AM    | **Panel 6: Human-Machine Operations and Integration**     |
+| 11:15 AM    | **Panel 6: Human-Machine Operations and Integration** [(info)](#panel-6--human-machine-operations-and-integration) |
 | 12:15 PM    | **Lunch**                                                 |
-|  1:30 PM    | **Panel 7: Astronaut Perspectives on HMT Operations**     |
+|  1:30 PM    | **Panel 7: Astronaut Perspectives on HMT Operations** [(info)](#panel-7--astronaut-perspectives-on-hmt-operations) |
 |  2:30 PM    | **Coffee Break**                                          |
-|  3:00 PM    | **Panel 8: Developing a Consortium**                      |
+|  3:00 PM    | **Panel 8: Developing a Consortium** [(info)](panel-8--developing-a-consortium--integrated-human-machine-partnerships-for-a-sustained-presence--moon-to-Mars) |
 |             | - Facilitated small group discussions                     |
 |             | - Report outs - the way forward                           |
 
