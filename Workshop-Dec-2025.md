@@ -68,7 +68,7 @@ Registration is by invitation only -- a link will be provided
 | 12:15 PM    | **Lunch**                                                 |
 |  1:30 PM    | **Panel 7: Astronaut Perspectives on HMT Operations** [(info)](#panel-7-astronaut-perspectives-on-hmt-operations) |
 |  2:30 PM    | **Coffee Break**                                          |
-|  3:00 PM    | **Panel 8: Developing a Consortium** [(info)](panel-8-developing-a-consortium-integrated-human-machine-partnerships-for-a-sustained-presence-moon-to-mars) |
+|  3:00 PM    | **Panel 8: Developing a Consortium** [(info)](#panel-8-developing-a-consortium-integrated-human-machine-partnerships-for-a-sustained-presence-moon-to-mars) |
 |             | - Facilitated small group discussions                     |
 |             | - Report outs - the way forward                           |
 
