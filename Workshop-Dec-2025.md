@@ -82,6 +82,9 @@ Registration is by invitation only -- a link will be provided
 
 ### Panel 1: Civil Space Perspective
 
+**Objective:**
+The envisioned future of space exploration includes a sustained presence on the Moon and eventually Mars.  It is currently not clear what the mix of human and robotic assets will be or their roles. While robotic assets will presumably be more prolific than human presence, the extent to which we will want robots to support the human operations, and how humans can most effectively utilize robotic assets for more efficient, safer and productive operations has yet to be determined.  This panel will address the civilian space perspective and path forward, from a variety of stakeholders' perspectives, on the human and machine teaming for enabling a sustained presence on the Moon and eventually Mars.
+
 **Moderator:**
 - Phil Larson, Chief of Strategy and Engagement, Johns Hopkins APL
 
@@ -91,6 +94,9 @@ Registration is by invitation only -- a link will be provided
 - Joel Graham, Associate Administrator, Office of Legislative and Intergovernmental Affairs, NASA
 
 ### Panel 2: National Security Space Perspective
+
+**Objective:**
+As the multi-stakeholder civilian space envisioned future for a sustained presence on the Moon unfolds, the question of security for operations, communications, and various government and commercial activities will arise as multiple nations and international corporations operate in common areas with mutually common as well as conflicting interests. Lesson learned from working to secure space operations in Earth orbit and more recently in cis-lunar space may apply, and in some instances not apply,  for ensuring safe, effective and multi-lateral beneficial operations on the lunar and eventually Martian surfaces. This panel will address the space security considerations and path forward for multinational government and commercial human and machine operations on the Moon and eventually Mars.
 
 **Moderator:**
 - Emma Rainey, Engineering Program Manager, Johns Hopkins APL
@@ -102,6 +108,9 @@ Registration is by invitation only -- a link will be provided
 
 
 ### Panel 3: "New" Space Perspective
+
+**Objective:**
+Commercially-led human and robotic activities in space are becoming increasingly prevalent and are more and more shaping the future of human spaceflight.  This collaboration will extend to the Moon and eventually Mars.  The commercial spaceflight industry has a unique perspective on space exploration than has historically been different from that of government-led efforts.  The purpose of this panel is to hear from these relatively new participants on how HMT will need to evolve to most effectively support activities on the Moon and Mars.
 
 **Moderator:**
 - Alicia Carey, Formulation Manager - New Business, Johns Hopkins APL
@@ -160,6 +169,9 @@ University of California Santa Cruz
 
 ### Panel 7: Astronaut Perspectives on HMT Operations
 
+**Objective:**
+The envisioned future of sustained human presence on the moon will be in an environment rich with autonomous/robotic systems. Astronauts have unique experiences of working in a space environment conducting different missions with an array of technology. This panel is an opportunity to learn about these experiences from people who have been in that setting.
+
 **Moderator:**
 - TBD
 
@@ -168,6 +180,9 @@ University of California Santa Cruz
 - TBD
 
 ### Panel 8: Developing a Consortium: Integrated Human Machine Partnerships for a Sustained Presence, Moon to Mars
+
+**Objective:**
+The workshop to this point will have presented various aspects and points of view on human-machine teaming in space exploration. The field will benefit from a cohesive plan of action as to the main areas to be investigated and the expertise needed. The panel will discuss and begin to chart the path forward for implementing the findings of this workshop.
 
 **Moderator:**
 - TBD
