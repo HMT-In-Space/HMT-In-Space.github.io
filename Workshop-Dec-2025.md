@@ -156,7 +156,7 @@ Humans and machines (robotic assistants) will work together closely when explori
 The objective is to extract cross-domain lessons on how humans and autonomous systems can function as teams -- safely, effectively, and accountably -- in high-consequence environments such as space, medicine, national security, and critical infrastructure. As autonomy grows, machines must understand context and human intent, while humans must maintain awareness and calibrated trust. Effective teaming rests on sound interfaces, training, and verification. Together, human and machine partners must manage cognitive load, fatigue, faults, and off-nominal conditions to ensure safe, adaptive performance.
 
 **Moderators:**
-- Colleen Hartman, Director of Physics, Aeronautics and Space Sciences, National Academies of Sciences, Engineering, and Medicine
+- Colleen Hartman, Research Professor of Space Policy & International Affairs, George Washington University
 - Peter Kazanzides, Research Professor, Computer Science, JHU
 
 **Panelists:**
@@ -190,7 +190,7 @@ The workshop to this point will have presented various aspects and points of vie
 **Panelists:**
 - James Bellingham, Professor and Executive Director, Institute for Assured Autonomy, JHU
 - Janna Lewis, Senior Vice President of Policy, Astroscale U.S.
-- Colleen Hartman, Director of Physics, Aeronautics and Space Sciences, National Academies of Sciences, Engineering, and Medicine
+- Colleen Hartman, Research Professor of Space Policy & International Affairs, George Washington University
 
 
 ## Organizers
