@@ -123,6 +123,9 @@ Commercially-led human and robotic activities in space are becoming increasingly
 
 ### Panel 4: Research and Analysis Stakeholder Perspective
 
+**Objective:**
+National labs, universities, research centers including UARCs and FFRDCs, and other private institutions and companies have historically been major stakeholders in the development of technologies for enabling the success of the US space industry and exploration of the solar system. Recently, in addition to government agencies, private organizations have begun to take a leading role in space exploration. This panel will discuss how the level of participation by these stakeholders is evolving as the space frontier is again pushed beyond Earth orbit, and specifically toward achieving the goal of a persistent presence on the Moon and eventually Mars.
+
 **Moderator:**
 - David Akin, Professor, Dept. of Aerospace Engineering, University of Maryland
 
