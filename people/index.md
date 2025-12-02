@@ -76,6 +76,8 @@ David Koelle is Director of Engineering and Principal Software Engineer at Charl
 <img src="Michael-Lopez-Alegria.jpg" alt="Michael Lopez-Alegria" height="180" style="float:left;margin-right:10px;" />
 Michael Lopez-Alegria serves as Chief Astronaut for Axiom Space. As a NASA astronaut, he flew to space three times on the Space Shuttle and once on the Russian Soyuz, commanding International Space Station Expedition 14. More recently, he led the first all private astronaut mission to the ISS in 2022, and returned to low Earth orbit for the sixth time last year on Axiom Mission 3.
 <br />
+<br />
+<br />
 <hr />
 
 <a name="steve-mcguire"></a>
@@ -96,10 +98,34 @@ Dr. Ruth Stilwell is the Executive Director of Aerospace Policy Solutions LLC, s
 <br />
 <hr />
 
+<a name="dan-tani"></a>
+### Dan Tani (Panel 7)
+<img src="Dan-Tani.jpg" alt="Dan Tani" height="180" style="float:left;margin-right:10px" />
+Dan Tani is a former NASA astronaut who spent 132 days in space over 2 missions, including living aboard the ISS for 4 months.  In addition to his time at NASA, Tani has worked in the commercial space sector, the non-profit sector and even taught high school.  He attended MIT and performed his Master's research in the Man-Machine Laboratory (probably renamed at this point!)
+<br />
+<br />
+<hr />
+
+<a name="emmanuel-urquieta"></a>
+### Emmanuel Urquieta (Panel 5)
+<img src="Emmanuel-Urquieta.jpg" alt="Emmanuel Urquieta" height="180" style="float:left;margin-right:10px" />
+Emmanuel Urquieta, M.D., M.S., FAsMA, is the Vice Chair for Aerospace Medicine at the University of Central Florida (UCF) - College of Medicine, and the founding director of the UCF Center for Aerospace and Extreme Environments Medicine. Before joining UCF,  Dr. Urquieta served as the Chief Medical Officer at the NASA-funded Translational Research Institute for Space Health. Dr. Urquieta holds a medical degree and specialty in emergency medicine from Anahuac University in Mexico City and an M.S. in aerospace medicine from Wright State University in Dayton, Ohio.
+<br />
+<hr />
+
+<a name="ernest-webb"></a>
+### Ernest B. Webb (Panel 2)
+<img src="Ernest-Webb.jpg" alt="Ernest B. Webb" height="180" style="float:left;margin-right:10px" />
+Lt Col (Dr.) Ernest B. Webb is the Division Chief for Medical Operations and Standards at Headquarters Air Force Office of the Surgeon General, Peterson SFB, Colorado. He leads strategic planning and policy development for the United States Space Force (USSF) medical operations and ensures alignment of medical standards with joint operational readiness.  Lt Col Webb's enduring mission is to align military medical standards with the demands of orbital and global combat environments and to strengthen readiness through innovative policy, resilient infrastructure, and mission-focused medical support.
+<br />
+<hr />
+
 <a name="brian-weedan"></a>
 ### Brian Weeden (Keynote)
 <img src="Brian-Weedan.jpg" alt="Brian Weedan" height="180" style="float:left;margin-right:10px" />
 [Link](https://csps.aerospace.org/experts/brian-weeden)
+<br />
+<br />
 <br />
 <br />
 <br />
