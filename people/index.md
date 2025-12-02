@@ -8,7 +8,7 @@ layout: default
 
 ## Panelists, Moderators and Organizers
 
-<a name="david-handelman" /a>
+<a name="david-handelman"></a>
 ### David Handelman (Panel 6)
 <body>
 <img src="David-Handelman.jpg", alt="David Handelman", width="80", height="150", style="float:left;" />
@@ -18,7 +18,7 @@ David Handelman is a Sr. Robotics Researcher in the Research and Exploratory Dev
 </body>
 
 ### Colleen Hartman (Panel 6 Moderator, Panel 8)
-<a name="colleen-hartman" /a>
+<a name="colleen-hartman"></a>
 <body>
 <img src="Colleen-Hartman.jpg", alt="Colleen Hartman", width="80", height="150", style="float:left;" />
 <h3 style="float:right;">
