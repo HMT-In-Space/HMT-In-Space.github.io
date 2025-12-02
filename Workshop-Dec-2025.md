@@ -178,7 +178,8 @@ The envisioned future of sustained human presence on the moon will be in an envi
 
 **Panelists:**
 - Jim Riley, Astronaut
-- TBD
+- Michael Lopez-Alegria, Chief Astronaut, Axiom Space
+- Dan Tani, Astronaut
 
 ### Panel 8: Developing a Consortium: Integrated Human Machine Partnerships for a Sustained Presence, Moon to Mars
 
