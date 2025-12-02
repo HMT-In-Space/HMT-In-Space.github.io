@@ -164,7 +164,7 @@ The objective is to extract cross-domain lessons on how humans and autonomous sy
 
 **Panelists:**
 - Shirley Dyke, Professor, School of Mechanical Engineering, Purdue University
-- David Handelman, Senior Staff Roboticist, Johns Hopkins APL
+- David Handelman, Senior Research Scientist, Robotics & Intelligent Systems, Johns Hopkins APL
 - Julie Townsend, Assistant Section Manager, Jet Propulsion Laboratory (JPL)
 - Steve McGuire, Assistant Professor and Lead, Human-Aware Robotic Exploration Lab,
 University of California Santa Cruz
