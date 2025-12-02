@@ -76,7 +76,6 @@ Registration is by invitation only -- a link will be provided
 
 ### Introduction and Welcome
 - Amy Haufler, Karl Hibbitts, Peter Kazanzides, Mark Shelhamer, Organizers, JHU / APL
-- Ray Jayawardhana, Provost, Johns Hopkins University
 - Jason Kalirai, Mission Area Executive for Space Formulation, Johns Hopkins APL
 - James Bellingham, Professor and Executive Director, Institute for Assured Autonomy, JHU
 
@@ -91,7 +90,7 @@ The envisioned future of space exploration includes a sustained presence on the 
 **Panelists:**
 - Sarah Brothers, Director, Commercial Remote Sensing Regulatory Affairs Division, Office of Space Commerce, U.S. Dept. of Commerce
 - Niki Werkeiser, Director for Technology Maturation, NASA STMD
-- Joel Graham, Associate Administrator, Office of Legislative and Intergovernmental Affairs, NASA
+- TBD
 
 ### Panel 2: National Security Space Perspective
 

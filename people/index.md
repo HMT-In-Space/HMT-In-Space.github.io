@@ -60,6 +60,7 @@ Dr. Colleen N. Hartman, a physicist and Research Professor at George Washington 
 <a name="peter-kazanzides"></a>
 ### Peter Kazanzides (Organizer, Panel 6 Moderator)
 <img src="Peter-Kazanzides.jpg" alt="Peter Kazanzides" height="180" style="float:left;margin-right:10px;" />
+Peter Kazanzides is a Research Professor of Computer Science at Johns Hopkins University (JHU) and has worked in medical robotics for more than 35 years. Previously, he was co-founder and Director of Robotics and Software at Integrated Surgical Systems, developer of the Robodoc Surgical System. Robodoc completed its first-in-human hip replacement surgery in 1992 and was subsequently used for more than 20,000 hip and knee replacement surgeries. More recently, he led a JHU research effort in support of the NASA Restore-L and OSAM-1 missions.
 <br />
 <hr />
 
@@ -99,5 +100,8 @@ Dr. Ruth Stilwell is the Executive Director of Aerospace Policy Solutions LLC, s
 ### Brian Weeden (Keynote)
 <img src="Brian-Weedan.jpg" alt="Brian Weedan" height="180" style="float:left;margin-right:10px" />
 [Link](https://csps.aerospace.org/experts/brian-weeden)
+<br />
+<br />
+<br />
 <br />
 <hr />
