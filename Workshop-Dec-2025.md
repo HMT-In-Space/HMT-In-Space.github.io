@@ -159,7 +159,7 @@ The objective is to extract cross-domain lessons on how humans and autonomous sy
 
 **Moderators:**
 - Colleen Hartman, Research Professor of Space Policy & International Affairs, George Washington University
-- Peter Kazanzides, Research Professor, Computer Science, JHU [(bio)](people/index.html/#peter-kazanzides)
+- Peter Kazanzides, Research Professor, Computer Science, JHU [(bio)](people/#peter-kazanzides)
 
 **Panelists:**
 - Shirley Dyke, Professor, School of Mechanical Engineering, Purdue University
