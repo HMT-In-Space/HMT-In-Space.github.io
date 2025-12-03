@@ -132,11 +132,7 @@ Lt Col (Dr.) Ernest B. Webb is the Division Chief for Medical Operations and Sta
 <a name="brian-weeden"></a>
 ### Brian Weeden (Keynote)
 <img src="Brian-Weedan.jpg" alt="Brian Weedan" height="180" style="float:left;margin-right:10px" />
-[Link](https://csps.aerospace.org/experts/brian-weeden)
-<br />
-<br />
-<br />
-<br />
+Dr. Brian Weeden is a director of civil and commercial policy for the Center for Space Policy and Strategy at The Aerospace Corporation, where he serves as a senior analyst and team leader on topics that cut across policy, technology, and economics. He specializes in the integration and advancement of technical, policy, legal, security, commercial, and international aspects of space activities. [Online bio.](https://csps.aerospace.org/experts/brian-weeden)
 <br />
 <br />
 <hr />
