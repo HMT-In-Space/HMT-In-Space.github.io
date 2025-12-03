@@ -75,7 +75,7 @@ Registration is by invitation only -- a link will be provided
 ## Agenda Details
 
 ### Introduction and Welcome
-- Amy Haufler, Karl Hibbitts, Peter Kazanzides [(bio)](people/#peter-kazanzides), Mark Shelhamer, Organizers, JHU / APL
+- Amy Haufler, Karl Hibbitts, Peter Kazanzides [(bio)](people/#peter-kazanzides), Mark Shelhamer [(bio)](people/#mark-shelhamer), Organizers, JHU / APL
 - Jason Kalirai, Mission Area Executive for Space Formulation, Johns Hopkins APL
 - James Bellingham, Professor and Executive Director, Institute for Assured Autonomy, JHU
 
@@ -144,7 +144,7 @@ National labs, universities, research centers including UARCs and FFRDCs, and ot
 Humans and machines (robotic assistants) will work together closely when exploring the moon and Mars. They must function together as a synergistic team, with the human crew understanding the capabilities of the robots, and the robots understanding the capabilities of the humans, in real-time as they change over the course of an EVA or a mission. Physiological and cognitive assessments can provide this information, which can be processed to provide insights into immediate status and anticipated problems and which can in turn be used to modulate the level of robotic assistance, making dynamic changes for best use of the respective capabilities of each member of the human-machine team.
 
 **Moderator:**
-- Mark Shelhamer, Professor, School of Medicine, JHU
+- Mark Shelhamer, Professor, School of Medicine, JHU [(bio)](people/#mark-shelhamer)
 
 **Panelists:**
 - Dan Buckland, Associate Professor, Emergency Medicine, University of Wisconsin-Madison [(bio)](people/#dan-buckland)

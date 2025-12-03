@@ -51,6 +51,7 @@ The Honorable Christine Fox is a Senior Fellow at the Johns Hopkins University A
 <img src="David-Handelman.jpg" alt="David Handelman" height="180" style="float:left;margin-right:10px;" />
 David Handelman is a Sr. Robotics Researcher in the Research and Exploratory Development Department at the Johns Hopkins Applied Physics Laboratory. He received a B.S. in Aerospace Engineering from the University of Virginia, and a Ph.D. in Mechanical and Aerospace Engineering from Princeton University. His areas of interest include robotics, autonomy, AI/ML, dexterous manipulation and bio-inspired human-machine teaming.
 <br />
+<br />
 <hr />
 
 <a name="colleen-hartman"></a>
@@ -99,6 +100,13 @@ California Santa Cruz after a career in the Marine Corps where he served as a he
 Technology Research fellow, his Human-Aware Robotic Exploration group investigates modern challenges in field robotics involving human
 interaction, with a recent 3rd place win as part of a DARPA Subterranean Challenge team. His research focuses on improving organic capabilities
 of field robots and teaching robots to learn about their human teammates.
+<br />
+<hr />
+
+<a name="mark-shelhamer"></a>
+### Mark Shelhamer (Organizer, Panel 5 Moderator)
+<img src="Mark-Shelhamer.jpg" alt="Mark Shelhamer" height="180" style="float:left;margin-right:10px" />
+Mark Shelhamer has an BS and MS in electrical engineering and a doctoral degree in Biomedical Engineering. His research is in the area of sensorimotor function, which includes experiments on ISS astronauts and crews of commercial orbital space flights. He also has a research program devoted to the multi-system and cross-disciplinary interactions that contribute to personal and mission resilience in spaceflight. From 2013 to 2016 he served as Chief Scientist for the NASA Human Research Program. In that role, he oversaw NASA's research portfolio for maintaining health and performance in long-duration spaceflight.
 <br />
 <hr />
 
