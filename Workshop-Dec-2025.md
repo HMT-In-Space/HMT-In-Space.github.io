@@ -75,7 +75,7 @@ Registration is by invitation only -- a link will be provided
 ## Agenda Details
 
 ### Introduction and Welcome
-- Amy Haufler, Karl Hibbitts, Peter Kazanzides, Mark Shelhamer, Organizers, JHU / APL
+- Amy Haufler, Karl Hibbitts, Peter Kazanzides [(bio)](people/#peter-kazanzides), Mark Shelhamer, Organizers, JHU / APL
 - Jason Kalirai, Mission Area Executive for Space Formulation, Johns Hopkins APL
 - James Bellingham, Professor and Executive Director, Institute for Assured Autonomy, JHU
 
@@ -85,7 +85,7 @@ Registration is by invitation only -- a link will be provided
 The envisioned future of space exploration includes a sustained presence on the Moon and eventually Mars.  It is currently not clear what the mix of human and robotic assets will be or their roles. While robotic assets will presumably be more prolific than human presence, the extent to which we will want robots to support the human operations, and how humans can most effectively utilize robotic assets for more efficient, safer and productive operations has yet to be determined.  This panel will address the civilian space perspective and path forward, from a variety of stakeholders' perspectives, on the human and machine teaming for enabling a sustained presence on the Moon and eventually Mars.
 
 **Moderator:**
-- Phil Larson, Chief of Strategy and Engagement, Johns Hopkins APL
+- TBD
 
 **Panelists:**
 - Sarah Brothers, Director, Commercial Remote Sensing Regulatory Affairs Division, Office of Space Commerce, U.S. Dept. of Commerce
@@ -102,8 +102,8 @@ As the multi-stakeholder civilian space envisioned future for a sustained presen
 
 **Panelists:**
 - Charles Anderson, Deputy Mission Area Executive for National Security Space, Johns Hopkins APL
-- Ernest B. Webb, Division Chief, Medical Operations and Standards, Office of the Air and Space Force Surgeon General
-- James Curbo, Chief Scientist, Constrained Cyber Solutions Group, Johns Hopkins APL
+- Ernest B. Webb, Division Chief, Medical Operations and Standards, Office of the Air and Space Force Surgeon General [(bio)](people/#ernest-web)
+- James Curbo, Chief Scientist, Constrained Cyber Solutions Group, Johns Hopkins APL [(bio)](people/#james-curbo)
 
 
 ### Panel 3: "New" Space Perspective
@@ -115,7 +115,7 @@ Commercially-led human and robotic activities in space are becoming increasingly
 - Alicia Carey, Formulation Manager - New Business, Johns Hopkins APL
 
 **Panelists:**
-- Ruth Stilwell, Executive Director, Aerospace Policy Solutions, LLC
+- Ruth Stilwell, Executive Director, Aerospace Policy Solutions, LLC [(bio)](people/#ruth-stilwell)
 - Janna Lewis, Senior Vice President of Policy, Astroscale U.S.
 - Ben Bussey, Chief Scientist, Intuitive Machines
 - Andrew J. (AJ) Gemer, CTO & Co-Founder, Lunar Outpost
@@ -130,13 +130,13 @@ National labs, universities, research centers including UARCs and FFRDCs, and ot
 
 **Panelists:**
 - James Bellingham, Professor and Executive Director, Institute for Assured Autonomy, JHU
-- Christine Fox, Senior Fellow, Johns Hopkins APL
-- Robert Braun, Space Sector Head, Johns Hopkins APL, and Professor, Dept. of Mechanical Engineering, JHU
-- David Koelle, Director of Engineering, Human-Centered AI, Charles River Analytics
+- Christine Fox, Senior Fellow, Johns Hopkins APL [(bio)](people/#christine-fox)
+- Robert Braun, Space Sector Head, Johns Hopkins APL, and Professor, Dept. of Mechanical Engineering, JHU [(bio)](people/#robert-braun)
+- David Koelle, Director of Engineering, Human-Centered AI, Charles River Analytics [(bio)](people/#david-koelle)
 - Federico Rossi, Robotics Technologist, Jet Propulsion Laboratory (JPL)
 
 ### Keynote and Discussion
-- Brian Weeden, Director of Civil and Commercial Policy, Center for Space Policy and Strategy
+- Brian Weeden, Director of Civil and Commercial Policy, Center for Space Policy and Strategy [(bio)](people/#brian-weeden)
 
 ### Panel 5: Astronaut Performance through Assured Health
 
@@ -147,10 +147,10 @@ Humans and machines (robotic assistants) will work together closely when explori
 - Mark Shelhamer, Professor, School of Medicine, JHU
 
 **Panelists:**
-- Dan Buckland, Associate Professor, Emergency Medicine, University of Wisconsin-Madison
-- Dana Levin, Medical Director and Chief Flight Surgeon, Vast Space
+- Dan Buckland, Associate Professor, Emergency Medicine, University of Wisconsin-Madison [(bio)](people/#dan-buckland)
+- Dana Levin, Medical Director and Chief Flight Surgeon, Vast Space [(bio)](people/#dana-levin)
 - Dawn Kernagis, Director of Scientific Research, DEEP
-- Emmanuel Urquieta, Vice Chair of Aerospace Medicine and Associate Professor of Medicine, University of Central Florida
+- Emmanuel Urquieta, Vice Chair of Aerospace Medicine and Associate Professor of Medicine, University of Central Florida [(bio)](people/#emmanuel-urquieta)
 
 ### Panel 6: Human-Machine Operations and Integration
 
@@ -158,15 +158,14 @@ Humans and machines (robotic assistants) will work together closely when explori
 The objective is to extract cross-domain lessons on how humans and autonomous systems can function as teams -- safely, effectively, and accountably -- in high-consequence environments such as space, medicine, national security, and critical infrastructure. As autonomy grows, machines must understand context and human intent, while humans must maintain awareness and calibrated trust. Effective teaming rests on sound interfaces, training, and verification. Together, human and machine partners must manage cognitive load, fatigue, faults, and off-nominal conditions to ensure safe, adaptive performance.
 
 **Moderators:**
-- Colleen Hartman, Research Professor of Space Policy & International Affairs, George Washington University
+- Colleen Hartman, Research Professor of Space Policy & International Affairs, George Washington University [(bio)](people/#colleen-hartman)
 - Peter Kazanzides, Research Professor, Computer Science, JHU [(bio)](people/#peter-kazanzides)
 
 **Panelists:**
-- Shirley Dyke, Professor, School of Mechanical Engineering, Purdue University
-- David Handelman, Senior Research Scientist, Robotics & Intelligent Systems, Johns Hopkins APL
+- Shirley Dyke, Professor, School of Mechanical Engineering, Purdue University [(bio)](people/#shirley-dyke)
+- David Handelman, Senior Research Scientist, Robotics & Intelligent Systems, Johns Hopkins APL [(bio)](people/#david-handelman)
 - Julie Townsend, Assistant Section Manager, Jet Propulsion Laboratory (JPL)
-- Steve McGuire, Assistant Professor and Lead, Human-Aware Robotic Exploration Lab,
-University of California Santa Cruz
+- Steve McGuire, Assistant Professor and Lead, Human-Aware Robotic Exploration Lab, University of California Santa Cruz [(bio)](people/steve-mcguire)
 
 ### Panel 7: Astronaut Perspectives on HMT Operations
 
@@ -178,8 +177,8 @@ The envisioned future of sustained human presence on the moon will be in an envi
 
 **Panelists:**
 - Jim Riley, Astronaut
-- Michael Lopez-Alegria, Chief Astronaut, Axiom Space
-- Dan Tani, Astronaut
+- Michael Lopez-Alegria, Chief Astronaut, Axiom Space [(bio)](people/#michael-lopez-alegria)
+- Dan Tani, Astronaut [(bio)](people/#dan-tani)
 
 ### Panel 8: Developing a Consortium: Integrated Human Machine Partnerships for a Sustained Presence, Moon to Mars
 
@@ -192,7 +191,7 @@ The workshop to this point will have presented various aspects and points of vie
 **Panelists:**
 - James Bellingham, Professor and Executive Director, Institute for Assured Autonomy, JHU
 - Janna Lewis, Senior Vice President of Policy, Astroscale U.S.
-- Colleen Hartman, Research Professor of Space Policy & International Affairs, George Washington University
+- Colleen Hartman, Research Professor of Space Policy & International Affairs, George Washington University [(bio)](people/#colleen-hartman)
 
 
 ## Organizers

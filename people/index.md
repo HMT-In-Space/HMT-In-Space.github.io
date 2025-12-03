@@ -6,6 +6,8 @@ layout: default
 
 ## Exploring and Enabling Human-Machine Partnerships for Sustained Deep-Space Presence including Moon and Mars
 
+[Back to Agenda](../Workshop-Dec-2025.html)
+
 ## Panelists, Moderators and Organizers
 
 <a name="robert-braun"></a>
@@ -68,6 +70,13 @@ Peter Kazanzides is a Research Professor of Computer Science at Johns Hopkins Un
 ### David Koelle (Panel 4)
 <img src="David-Koelle.jpg" alt="David Koelle" height="180" style="float:left;margin-right:10px;" />
 David Koelle is Director of Engineering and Principal Software Engineer at Charles River Analytics. In his work on collaborative autonomy for multi-robot systems for clients including DARPA, NASA, and the Air Force, he focuses on autonomous platforms that work with each other and with human operators and workers to achieve objectives in the face of expeditionary environments, intermittent or denied communications, dynamic adversary responses, and changing performance of the platforms.
+<br />
+<hr />
+
+<a name="dana-levin"></a>
+### Dana Levin (Panel 5)
+<img src="Dana-Levin.jpg" alt="Dana Levin" height="180" style="float:left;margin-right:10px;" />
+Dr. Dana Levin is board certified in Emergency Medicine and Aerospace Medicine and has more than a decade of experience caring for humans on all 7 continents, beneath the sea, and in space. He currently serves as the Director of Space Medicine for Vast Space and maintains an active clinical practice in Emergency Medicine with faculty appointments with UC Irvine, the Massachusetts General Hospital, and UCLA. In addition to experience in rural hospitals and major medical centers, he has extensive field experience in high altitude, underwater, polar, and other austere environments.
 <br />
 <hr />
 
