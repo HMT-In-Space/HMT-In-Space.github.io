@@ -11,7 +11,7 @@ layout: default
 ## Panelists, Moderators and Organizers
 
 <a name="charles-anderson"></a>
-### Charles Anderson (Panel 4)
+### Charles Anderson (Panel 2)
 <img src="Charles-Anderson.jpg" alt="Charles Anderson" height="180" style="float:left;margin-right:10px;" />
 Charles T. "Chuck" Anderson is the Deputy Mission Area Executive in the Space Exploration Sector's National Security Space Mission Area at the JHU Applied Physics Laboratory (APL). A recognized expert in U.S. Space Force, Air Force, joint space operations, communications, missile defense, and space situational awareness, he joined APL in 2005 after a 21-year Army career as a Signal and Space Operations Officer and has since held numerous leadership roles. He holds a Master of Military Arts and Science in space operations from the U.S. Army Command and General Staff College and a B.S. in computer studies from the University of Maryland Global Campus.
  <br />
