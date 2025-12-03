@@ -10,6 +10,13 @@ layout: default
 
 ## Panelists, Moderators and Organizers
 
+<a name="charles-anderson"></a>
+### Charles Anderson (Panel 4)
+<img src="Charles-Anderson.jpg" alt="Charles Anderson" height="180" style="float:left;margin-right:10px;" />
+Charles T. "Chuck" Anderson is the Deputy Mission Area Executive in the Space Exploration Sector's National Security Space Mission Area at the JHU Applied Physics Laboratory (APL). A recognized expert in U.S. Space Force, Air Force, joint space operations, communications, missile defense, and space situational awareness, he joined APL in 2005 after a 21-year Army career as a Signal and Space Operations Officer and has since held numerous leadership roles. He holds a Master of Military Arts and Science in space operations from the U.S. Army Command and General Staff College and a B.S. in computer studies from the University of Maryland Global Campus.
+ <br />
+<hr />
+
 <a name="robert-braun"></a>
 ### Robert Braun (Panel 4)
 <img src="Robert-Braun.jpg" alt="Robert Braun" height="180" style="float:left;margin-right:10px;" />
@@ -57,7 +64,7 @@ David Handelman is a Sr. Robotics Researcher in the Research and Exploratory Dev
 <a name="colleen-hartman"></a>
 ### Colleen Hartman (Panel 6 Moderator, Panel 8)
 <img src="Colleen-Hartman.jpg" alt="Colleen Hartman" height="180" style="float:left;margin-right:10px" />
-Dr. Colleen N. Hartman, a physicist and Research Professor at George Washington University, previously led the National Academies' portfolios in aeronautics, astronomy, physics, and space science. She served in senior roles at NASA and the White House, contributing to missions ranging from sounding rockets and balloons to Hubble, JWST, and outer-planet exploration, and brings both technical depth and policy experience to national space programs.
+Professor Colleen N. Hartman, a physicist and Research Professor at George Washington University, previously led the National Academies' portfolios in aeronautics, astronomy, physics, and space science. She served in senior roles at NASA and the White House, contributing to missions ranging from sounding rockets and balloons to Hubble, JWST, and outer-planet exploration, and brings both technical depth and policy experience to national space programs.
 <br />
 <br />
 <hr />
