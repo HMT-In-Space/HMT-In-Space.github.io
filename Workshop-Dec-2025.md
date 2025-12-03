@@ -164,7 +164,7 @@ The objective is to extract cross-domain lessons on how humans and autonomous sy
 **Panelists:**
 - Shirley Dyke, Professor, School of Mechanical Engineering, Purdue University [(bio)](people/#shirley-dyke)
 - David Handelman, Senior Research Scientist, Robotics & Intelligent Systems, Johns Hopkins APL [(bio)](people/#david-handelman)
-- Julie Townsend, Assistant Section Manager, Jet Propulsion Laboratory (JPL)
+- Julie Townsend, Assistant Section Manager, Jet Propulsion Laboratory (JPL) [(bio)](people/#julie-townsend)
 - Steve McGuire, Assistant Professor and Lead, Human-Aware Robotic Exploration Lab, University of California Santa Cruz [(bio)](people/#steve-mcguire)
 
 ### Panel 7: Astronaut Perspectives on HMT Operations

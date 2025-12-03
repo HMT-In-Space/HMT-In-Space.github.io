@@ -126,6 +126,13 @@ Dan Tani is a former NASA astronaut who spent 132 days in space over 2 missions,
 <br />
 <hr />
 
+<a name="julie-townsend"></a>
+### Julie Townsend (Panel 6)
+<img src="Julie-Townsend.jpg" alt="Julie Townsend" height="180" style="float:left;margin-right:10px" />
+Julie Townsend is Assistant Manager for Robotic Mobility and Manipulation at the Jet Propulsion Laboratory. Julie has extensive hands-on experience interacting with fielded autonomous robots, with roles including Rover Planner for the Spirit and Opportunity Rovers, Test Lead for the ATHLETE lunar utility robot prototype, and Validation Lead and Operations Architect for the Perseverance Rover robotic Sampling and Caching Subsystem.
+<br />
+<hr />
+
 <a name="emmanuel-urquieta"></a>
 ### Emmanuel Urquieta (Panel 5)
 <img src="Emmanuel-Urquieta.jpg" alt="Emmanuel Urquieta" height="180" style="float:left;margin-right:10px" />
