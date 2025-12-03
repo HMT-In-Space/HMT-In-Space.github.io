@@ -102,7 +102,7 @@ As the multi-stakeholder civilian space envisioned future for a sustained presen
 
 **Panelists:**
 - Charles Anderson, Deputy Mission Area Executive for National Security Space, Johns Hopkins APL
-- Ernest B. Webb, Division Chief, Medical Operations and Standards, Office of the Air and Space Force Surgeon General [(bio)](people/#ernest-web)
+- Ernest B. Webb, Division Chief, Medical Operations and Standards, Office of the Air and Space Force Surgeon General [(bio)](people/#ernest-webb)
 - James Curbo, Chief Scientist, Constrained Cyber Solutions Group, Johns Hopkins APL [(bio)](people/#james-curbo)
 
 
@@ -165,7 +165,7 @@ The objective is to extract cross-domain lessons on how humans and autonomous sy
 - Shirley Dyke, Professor, School of Mechanical Engineering, Purdue University [(bio)](people/#shirley-dyke)
 - David Handelman, Senior Research Scientist, Robotics & Intelligent Systems, Johns Hopkins APL [(bio)](people/#david-handelman)
 - Julie Townsend, Assistant Section Manager, Jet Propulsion Laboratory (JPL)
-- Steve McGuire, Assistant Professor and Lead, Human-Aware Robotic Exploration Lab, University of California Santa Cruz [(bio)](people/steve-mcguire)
+- Steve McGuire, Assistant Professor and Lead, Human-Aware Robotic Exploration Lab, University of California Santa Cruz [(bio)](people/#steve-mcguire)
 
 ### Panel 7: Astronaut Perspectives on HMT Operations
 

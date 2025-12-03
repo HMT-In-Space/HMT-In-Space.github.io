@@ -80,7 +80,7 @@ Dr. Dana Levin is board certified in Emergency Medicine and Aerospace Medicine a
 <br />
 <hr />
 
-<a name="michael-lopez-koelle"></a>
+<a name="michael-lopez-alegria"></a>
 ### Michael Lopez-Alegria (Panel 7)
 <img src="Michael-Lopez-Alegria.jpg" alt="Michael Lopez-Alegria" height="180" style="float:left;margin-right:10px;" />
 Michael Lopez-Alegria serves as Chief Astronaut for Axiom Space. As a NASA astronaut, he flew to space three times on the Space Shuttle and once on the Russian Soyuz, commanding International Space Station Expedition 14. More recently, he led the first all private astronaut mission to the ISS in 2022, and returned to low Earth orbit for the sixth time last year on Axiom Mission 3.
@@ -129,7 +129,7 @@ Lt Col (Dr.) Ernest B. Webb is the Division Chief for Medical Operations and Sta
 <br />
 <hr />
 
-<a name="brian-weedan"></a>
+<a name="brian-weeden"></a>
 ### Brian Weeden (Keynote)
 <img src="Brian-Weedan.jpg" alt="Brian Weedan" height="180" style="float:left;margin-right:10px" />
 [Link](https://csps.aerospace.org/experts/brian-weeden)
