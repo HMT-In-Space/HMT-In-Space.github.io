@@ -29,6 +29,7 @@ Dr. Daniel Buckland MD PhD is an Associate Professor of Emergency Medicine and M
 <img src="James-Curbo.jpg" alt="James Curbo" height="180" style="float:left;margin-right:10px;" />
 James Curbo serves as the Chief Scientist of the Constrained Cyber Solutions Group at the Johns Hopkins University Applied Physics Laboratory. His work focuses on cybersecurity and cyber operations for space systems. He is currently pursuing a doctorate at the Johns Hopkins University Whiting School of Engineering, where his research is focused on cyber-resilient spacecraft design and implementation.
 <br />
+<br />
 <hr />
 
 <a name="shirley-dyke"></a>
@@ -56,6 +57,7 @@ David Handelman is a Sr. Robotics Researcher in the Research and Exploratory Dev
 ### Colleen Hartman (Panel 6 Moderator, Panel 8)
 <img src="Colleen-Hartman.jpg" alt="Colleen Hartman" height="180" style="float:left;margin-right:10px" />
 Dr. Colleen N. Hartman, a physicist and Research Professor at George Washington University, previously led the National Academies' portfolios in aeronautics, astronomy, physics, and space science. She served in senior roles at NASA and the White House, contributing to missions ranging from sounding rockets and balloons to Hubble, JWST, and outer-planet exploration, and brings both technical depth and policy experience to national space programs.
+<br />
 <br />
 <hr />
 
@@ -111,6 +113,7 @@ Dr. Ruth Stilwell is the Executive Director of Aerospace Policy Solutions LLC, s
 ### Dan Tani (Panel 7)
 <img src="Dan-Tani.jpg" alt="Dan Tani" height="180" style="float:left;margin-right:10px" />
 Dan Tani is a former NASA astronaut who spent 132 days in space over 2 missions, including living aboard the ISS for 4 months.  In addition to his time at NASA, Tani has worked in the commercial space sector, the non-profit sector and even taught high school.  He attended MIT and performed his Master's research in the Man-Machine Laboratory (probably renamed at this point!)
+<br />
 <br />
 <br />
 <hr />
