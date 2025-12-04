@@ -133,7 +133,7 @@ National labs, universities, research centers including UARCs and FFRDCs, and ot
 - Christine Fox, Senior Fellow, Johns Hopkins APL [(bio)](people/#christine-fox)
 - Robert Braun, Space Sector Head, Johns Hopkins APL, and Professor, Dept. of Mechanical Engineering, JHU [(bio)](people/#robert-braun)
 - David Koelle, Director of Engineering, Human-Centered AI, Charles River Analytics [(bio)](people/#david-koelle)
-- Federico Rossi, Robotics Technologist, Jet Propulsion Laboratory (JPL)
+- Federico Rossi, Robotics Technologist, Jet Propulsion Laboratory (JPL) [(bio)](people/#federico-rossi)
 
 ### Keynote and Discussion
 - Brian Weeden, Director of Civil and Commercial Policy, Center for Space Policy and Strategy [(bio)](people/#brian-weeden)

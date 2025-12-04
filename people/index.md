@@ -110,6 +110,13 @@ of field robots and teaching robots to learn about their human teammates.
 <br />
 <hr />
 
+<a name="federico-rossi"></a>
+### Federico Rossi (Panel 4)
+<img src="Federico-Rossi.jpg" alt="Federico Rossi" height="180" style="float:left;margin-right:10px;" />
+Dr. Federico Rossi is a Robotics Technologist with the Multi-Agent Robotics Group within the Robotics section of NASA's Jet Propulsion Laboratory. He received a Ph.D. in Aeronautics and Astronautics at Stanford University in 2018. Federico leads the multi-agent autonomy team for NASA's Coordinated Autonomous Distributed Robotics Explorers (CADRE) mission, a team of three autonomous rovers designed for Lunar surface and sub-surface exploration. Federico's research focuses on decision-making under uncertainty in robotic systems and operations of autonomous agents. At JPL, he has developed autonomy technologies for cooperative robotic exploration, joint orbit and observation optimization for exploration of small bodies, and under-ice navigation in Antarctica.
+<br />
+<hr />
+
 <a name="mark-shelhamer"></a>
 ### Mark Shelhamer (Organizer, Panel 5 Moderator)
 <img src="Mark-Shelhamer.jpg" alt="Mark Shelhamer" height="180" style="float:left;margin-right:10px" />
