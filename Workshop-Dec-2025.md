@@ -172,13 +172,15 @@ The objective is to extract cross-domain lessons on how humans and autonomous sy
 **Objective:**
 The envisioned future of sustained human presence on the moon will be in an environment rich with autonomous/robotic systems. Astronauts have unique experiences of working in a space environment conducting different missions with an array of technology. This panel is an opportunity to learn about these experiences from people who have been in that setting.
 
-**Moderator:**
-- TBD
+**Moderators:**
+- Mark Shelhamer, Professor, School of Medicine, JHU [(bio)](people/#mark-shelhamer)
+- Amy Haufler, Senior National Security Analyst, Johns Hopkins APL
 
 **Panelists:**
 - Jim Riley, Astronaut
 - Michael Lopez-Alegria, Chief Astronaut, Axiom Space [(bio)](people/#michael-lopez-alegria)
 - Dan Tani, Astronaut [(bio)](people/#dan-tani)
+- Alvin Drew, Astronaut, Director for Space Sustainability, NASA
 
 ### Panel 8: Developing a Consortium: Integrated Human Machine Partnerships for a Sustained Presence, Moon to Mars
 
