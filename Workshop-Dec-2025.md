@@ -65,7 +65,7 @@ Registration is by invitation only -- a link will be provided
 |  9:45 AM    | **Panel 5: Astronaut Performance through Assured Health** [(info)](#panel-5-astronaut-performance-through-assured-health) |
 | 10:45 AM    | **Coffee Break**                                          |
 | 11:15 AM    | **Panel 6: Human-Machine Operations and Integration** [(info)](#panel-6-human-machine-operations-and-integration) |
-| 12:15 PM    | **Lunch and Presentation **                               |
+| 12:15 PM    | **Lunch and Presentation**                               |
 |             | - Leveraging Agentic AI for Peer-to-Peer Human-Robot Teaming, David Handelman, Johns Hopkins APL [(bio)](people/#david-handelman) |
 |  1:30 PM    | **Panel 7: Astronaut Perspectives on HMT Operations** [(info)](#panel-7-astronaut-perspectives-on-hmt-operations) |
 |  2:30 PM    | **Coffee Break**                                          |
