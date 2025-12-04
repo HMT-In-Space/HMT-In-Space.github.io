@@ -65,7 +65,8 @@ Registration is by invitation only -- a link will be provided
 |  9:45 AM    | **Panel 5: Astronaut Performance through Assured Health** [(info)](#panel-5-astronaut-performance-through-assured-health) |
 | 10:45 AM    | **Coffee Break**                                          |
 | 11:15 AM    | **Panel 6: Human-Machine Operations and Integration** [(info)](#panel-6-human-machine-operations-and-integration) |
-| 12:15 PM    | **Lunch**                                                 |
+| 12:15 PM    | **Lunch and Presentation **                               |
+|             | - Leveraging Agentic AI for Peer-to-Peer Human-Robot Teaming, David Handelman, Johns Hopkins APL [(bio)](people/#david-handelman) |
 |  1:30 PM    | **Panel 7: Astronaut Perspectives on HMT Operations** [(info)](#panel-7-astronaut-perspectives-on-hmt-operations) |
 |  2:30 PM    | **Coffee Break**                                          |
 |  3:00 PM    | **Panel 8: Developing a Consortium** [(info)](#panel-8-developing-a-consortium-integrated-human-machine-partnerships-for-a-sustained-presence-moon-to-mars) |
@@ -85,12 +86,12 @@ Registration is by invitation only -- a link will be provided
 The envisioned future of space exploration includes a sustained presence on the Moon and eventually Mars.  It is currently not clear what the mix of human and robotic assets will be or their roles. While robotic assets will presumably be more prolific than human presence, the extent to which we will want robots to support the human operations, and how humans can most effectively utilize robotic assets for more efficient, safer and productive operations has yet to be determined.  This panel will address the civilian space perspective and path forward, from a variety of stakeholders' perspectives, on the human and machine teaming for enabling a sustained presence on the Moon and eventually Mars.
 
 **Moderator:**
-- TBD
+- Jason Kalirai, Mission Area Executive for Space Formulation, Johns Hopkins APL
 
 **Panelists:**
 - Sarah Brothers, Director, Commercial Remote Sensing Regulatory Affairs Division, Office of Space Commerce, U.S. Dept. of Commerce
-- Niki Werkeiser, Director for Technology Maturation, NASA STMD
-- TBD
+- Shaun Azimi, Program Manager, NASA Johnson Space Center
+- Gioia Rau, Program Director, Division of Astronomical Sciences (MPS/AST), National Science Foundation
 
 ### Panel 2: National Security Space Perspective
 
