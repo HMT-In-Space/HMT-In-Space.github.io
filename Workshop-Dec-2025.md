@@ -149,7 +149,7 @@ Humans and machines (robotic assistants) will work together closely when explori
 **Panelists:**
 - Dan Buckland, Associate Professor, Emergency Medicine, University of Wisconsin-Madison [(bio)](people/#dan-buckland)
 - Dana Levin, Medical Director and Chief Flight Surgeon, Vast Space [(bio)](people/#dana-levin)
-- Dawn Kernagis, Director of Scientific Research, DEEP
+- Dawn Kernagis, Director of Scientific Research, DEEP [(bio)](people/#dawn-kernagis)
 - Emmanuel Urquieta, Vice Chair of Aerospace Medicine and Associate Professor of Medicine, University of Central Florida [(bio)](people/#emmanuel-urquieta)
 
 ### Panel 6: Human-Machine Operations and Integration
