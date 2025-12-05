@@ -79,7 +79,9 @@ Peter Kazanzides is a Research Professor of Computer Science at Johns Hopkins Un
 <a name="dawn-kernagis"></a>
 ### Dawn Kernagis (Panel 5)
 <img src="Dawn-Kernagis.jpg" alt="Dawn Kernagis" height="180" style="float:left;margin-right:10px;" />
-Dawn Kernagis is Director of Scientific Research at DEEP, an engineering and research organization evolving how humans live and work underwater. She was Vice Chair for Research at the University of North Carolina - Chapel Hill prior to joining DEEP. Her research has focused on developing neuroprotective strategies for individuals who will be exposed to high physiological stress. Prior to joining UNC, she was an IHMC Research Scientist. She completed her Ph.D. and postdoctoral training at Duke University, where she was an American Heart Association Postdoctoral Fellow and funded by the Office of Naval Research (ONR) to identify mechanisms and potential therapeutic targets for acute brain injury. She was selected as a crew member of the NASA NEEMO XXI undersea mission (2016) and was inducted as a member of the Women Divers Hall of Fame and as a Fellow of the Explorers Club.
+Dr. Dawn Kernagis is Scientific Director at DEEP, an engineering and research organization evolving how humans live and work underwater, and a Senior Visiting Research Scientist at the Institute for Human and Machine Cognition. Her research has focused on health, performance, and resilience of individuals who are exposed to high physiological stress, including those working in extreme environments. In addition to her research background, Dawn has been a diver and team member of global underwater exploration projects over the past 3 decades. She was selected as a crew member of the NASA NEEMO XXI undersea mission, a Women Divers Hall of Fame inductee, and a Fellow of the Explorers Club.
+<br />
+<hr />
 
 <a name="david-koelle"></a>
 ### David Koelle (Panel 4)
