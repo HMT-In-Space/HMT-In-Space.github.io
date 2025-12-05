@@ -91,7 +91,7 @@ The envisioned future of space exploration includes a sustained presence on the 
 **Panelists:**
 - Sarah Brothers, Director, Commercial Remote Sensing Regulatory Affairs Division, Office of Space Commerce, U.S. Dept. of Commerce
 - Shaun Azimi, Program Manager, NASA Johnson Space Center
-- Gioia Rau, Program Director, Division of Astronomical Sciences (MPS/AST), National Science Foundation
+- Gioia Rau, Program Director, Division of Astronomical Sciences (MPS/AST), National Science Foundation [(bio)](people/#gioia-rau)
 
 ### Panel 2: National Security Space Perspective
 
