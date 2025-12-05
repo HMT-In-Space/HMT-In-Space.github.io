@@ -91,7 +91,7 @@ The envisioned future of space exploration includes a sustained presence on the 
 - Jason Kalirai, Mission Area Executive for Space Formulation, Johns Hopkins APL
 
 **Panelists:**
-- Sarah Brothers, Director, Commercial Remote Sensing Regulatory Affairs Division, Office of Space Commerce, U.S. Dept. of Commerce
+- Sarah Brothers, Director, Commercial Remote Sensing Regulatory Affairs Division, Office of Space Commerce, U.S. Dept. of Commerce [(bio)](people/#sarah-brothers)
 - Shaun Azimi, Program Manager, NASA Johnson Space Center
 - Gioia Rau, Program Director, Division of Astronomical Sciences (MPS/AST), National Science Foundation [(bio)](people/#gioia-rau)
 

@@ -24,6 +24,13 @@ Dr. Robert D. Braun is head of the Space Exploration Sector at the Johns Hopkins
 <br />
 <hr />
 
+<a name="sarah-brothers"></a>
+### Sarah Brothers (Panel 1)
+<img src="Sarah-Brothers.jpg" alt="Sarah Brothers" height="180" style="float:left;margin-right:10px;" />
+Dr. Sarah C. Brothers is a technology policy analyst with experience developing and implementing policies to advance the competitiveness of the United States commercial, national security, and civil space sectors. Her expertise is in the operational impacts and uses of commercial space technology on and for the national security and civil space mission areas. Dr. Brothers currently serves at the Director of Commercial Remote Sensing Regulatory Affairs, a division of the Department of Commerce Office of Space Commerce. She has previously been a project engineer with The Aerospace Corporation, a senior analyst with The Johns Hopkins University Applied Physics Laboratory, and a staff officer with the National Academies of Sciences, Engineering, and Medicine. She holds a Ph.D. in geology from the University of Texas at Austin.
+<br />
+<hr />
+
 <a name="dan-buckland"></a>
 ### Dan Buckland (Panel 5)
 <img src="Dan-Buckland.jpg" alt="Dan Buckland" height="180" style="float:left;margin-right:10px;" />
