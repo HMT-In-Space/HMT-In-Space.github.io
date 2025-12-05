@@ -120,6 +120,8 @@ of field robots and teaching robots to learn about their human teammates.
 <img src="Gioia-Rau.jpg" alt="Gioia Rau" height="180" style="float:left;margin-right:10px;" />
 Dr. Gioia Rau is a space leader whose work bridges government, philanthropy, academia, and industry. She currently serves as a Program Director at NSF and holds a senior role at Schmidt Sciences. Her portfolio integrates cross-sector initiatives in space, astrophysics, and AI. Dr. Rau writes and advises internationally, including a recent Nature Comment on scientific leadership in space exploration.
 <br />
+<br />
+<br />
 <hr />
 
 <a name="federico-rossi"></a>
