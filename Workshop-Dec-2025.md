@@ -69,9 +69,10 @@ Registration is by invitation only -- a link will be provided
 |             | - Leveraging Agentic AI for Peer-to-Peer Human-Robot Teaming, David Handelman, Johns Hopkins APL [(bio)](people/#david-handelman) |
 |  1:30 PM    | **Panel 7: Astronaut Perspectives on HMT Operations** [(info)](#panel-7-astronaut-perspectives-on-hmt-operations) |
 |  2:30 PM    | **Coffee Break**                                          |
-|  3:00 PM    | **Panel 8: Developing a Consortium** [(info)](#panel-8-developing-a-consortium-integrated-human-machine-partnerships-for-a-sustained-presence-moon-to-mars) |
+|  3:00 PM    | **Panel 8: Next Steps** [(info)](#panel-8-next-steps-integrated-human-machine-partnerships-for-a-sustained-presence-moon-to-mars) |
 |             | - Facilitated small group discussions                     |
 |             | - Report outs - the way forward                           |
+|  5:00 PM    | **Adjourn**                                               |
 
 ## Agenda Details
 
@@ -200,7 +201,7 @@ The envisioned future of sustained human presence on the moon will be in an envi
 - Dan Tani, Astronaut [(bio)](people/#dan-tani)
 - Alvin Drew, Astronaut, Director for Space Sustainability, NASA
 
-### Panel 8: Developing a Consortium: Integrated Human Machine Partnerships for a Sustained Presence, Moon to Mars
+### Panel 8: Next Steps: Integrated Human Machine Partnerships for a Sustained Presence, Moon to Mars
 
 **Time:** Dec 9, 3:00 PM
 
