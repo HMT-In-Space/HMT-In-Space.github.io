@@ -209,7 +209,7 @@ The envisioned future of sustained human presence on the moon will be in an envi
 The workshop to this point will have presented various aspects and points of view on human-machine teaming in space exploration. The field will benefit from a cohesive plan of action as to the main areas to be investigated and the expertise needed. The panel will discuss and begin to chart the path forward for implementing the findings of this workshop.
 
 **Moderator:**
-- TBD
+- Karl Hibbitts, Research Scientist, Johns Hopkins APL
 
 **Panelists:**
 - James Bellingham, Professor and Executive Director, Institute for Assured Autonomy, JHU
