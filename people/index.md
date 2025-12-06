@@ -44,6 +44,7 @@ Dr. Daniel Buckland MD PhD is an Associate Professor of Emergency Medicine and M
 Alicia Carey is a Formulation Manager in the Space Exploration Sector at Johns Hopkins Applied Physics Laboratory (APL). In her role, Alicia serves as the project manager for APL's space science research grant program and leads strategic lunar and cis-lunar space initiatives that will establish long-term pipelines in emerging technical areas of interest and future business opportunities.
 <br />
 <br />
+<br />
 <hr />
 
 <a name="james-curbo"></a>

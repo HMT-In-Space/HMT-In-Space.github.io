@@ -16,6 +16,8 @@ layout: default
 
 **Travel Information:** [here](./Workshop-Travel.html)
 
+**Meals:** Breakfast, lunch and coffee breaks are provided both days, and there is a reception at the end of the first day. There will be a payment option for those required to pay for their meals.
+
 ## Description
 
 Through the Artemis program, astronauts will return to the Moon in 2028, supporting the American goal of
