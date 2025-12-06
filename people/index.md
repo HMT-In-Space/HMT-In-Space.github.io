@@ -38,6 +38,14 @@ Dr. Daniel Buckland MD PhD is an Associate Professor of Emergency Medicine and M
 <br />
 <hr />
 
+<a name="alicia-carey"></a>
+### Alicia Carey (Panel 3 Moderator, Panel 8 Moderator)
+<img src="Alicia-Carey.jpg" alt="Alicia Carey" height="180" style="float:left;margin-right:10px;" />
+Alicia Carey is a Formulation Manager in the Space Exploration Sector at Johns Hopkins Applied Physics Laboratory (APL). In her role, Alicia serves as the project manager for APL's space science research grant program and leads strategic lunar and cis-lunar space initiatives that will establish long-term pipelines in emerging technical areas of interest and future business opportunities.
+<br />
+<br />
+<hr />
+
 <a name="james-curbo"></a>
 ### James Curbo (Panel 2)
 <img src="James-Curbo.jpg" alt="James Curbo" height="180" style="float:left;margin-right:10px;" />
@@ -73,6 +81,20 @@ David Handelman is a Sr. Robotics Researcher in the Research and Exploratory Dev
 <img src="Colleen-Hartman.jpg" alt="Colleen Hartman" height="180" style="float:left;margin-right:10px" />
 Professor Colleen N. Hartman, a physicist and Research Professor at George Washington University, previously led the National Academies' portfolios in aeronautics, astronomy, physics, and space science. She served in senior roles at NASA and the White House, contributing to missions ranging from sounding rockets and balloons to Hubble, JWST, and outer-planet exploration, and brings both technical depth and policy experience to national space programs.
 <br />
+<br />
+<hr />
+
+<a name="amy-haufler"></a>
+### Amy Haufler (Organizer, Panel 7 Moderator)
+<img src="Amy-Haufler.jpg" alt="Amy Haufler" height="180" style="float:left;margin-right:10px" />
+Dr. Amy Haufler is a Sr. Analyst and Human Machine Teaming Specialist in the National Security Analysis Department at the Johns Hopkins University Applied Physics Laboratory. Building on a Kinesiology and Neuroscience academic research foundation, Amy brings human performance, national security analysis, and innovation expertise to critical challenges related to humans performing hard tasks, in difficult environments for which technology solutions are key to optimizing their performance. Recently, Amy has been working on APL innovation and JHU Institute of Assured Autonomy projects focusing on the envisioned future of sustained human presence on the moon.
+<br />
+<hr />
+
+<a name="jason-kalirai"></a>
+### Jason S. Kalirai (Speaker, Panel 1 Moderator)
+<img src="Jason-Kalirai.jpg" alt="Jason Kalirai" height="180" style="float:left;margin-right:10px" />
+Dr. Jason S. Kalirai is the mission area executive for Space Formulation within the Space Exploration Sector at the Johns Hopkins Applied Physics Laboratory (APL). He leads a mission area responsible for the formulation of all new APL civil space initiatives, oversight of the Laboratory's large portfolio of space science grants and cooperative agreements, and integrated initiatives that cut across our nation's civil and national security space domains -- enabling game-changing missions and instruments on behalf of new and existing sponsors.
 <br />
 <hr />
 

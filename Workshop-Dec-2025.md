@@ -77,8 +77,8 @@ Registration is by invitation only -- a link will be provided
 ## Agenda Details
 
 ### Introduction and Welcome
-- Amy Haufler, Karl Hibbitts, Peter Kazanzides [(bio)](people/#peter-kazanzides), Mark Shelhamer [(bio)](people/#mark-shelhamer), Organizers, JHU / APL
-- Jason Kalirai, Mission Area Executive for Space Formulation, Johns Hopkins APL
+- Amy Haufler [(bio)](people/#amy-haufler), Karl Hibbitts, Peter Kazanzides [(bio)](people/#peter-kazanzides), Mark Shelhamer [(bio)](people/#mark-shelhamer), Organizers, JHU / APL
+- Jason Kalirai [(bio)](people/#jason-kalirai), Mission Area Executive for Space Formulation, Johns Hopkins APL
 - James Bellingham, Professor and Executive Director, Institute for Assured Autonomy, JHU
 
 ### Panel 1: Civil Space Perspective
@@ -89,7 +89,7 @@ Registration is by invitation only -- a link will be provided
 The envisioned future of space exploration includes a sustained presence on the Moon and eventually Mars.  It is currently not clear what the mix of human and robotic assets will be or their roles. While robotic assets will presumably be more prolific than human presence, the extent to which we will want robots to support the human operations, and how humans can most effectively utilize robotic assets for more efficient, safer and productive operations has yet to be determined.  This panel will address the civilian space perspective and path forward, from a variety of stakeholders' perspectives, on the human and machine teaming for enabling a sustained presence on the Moon and eventually Mars.
 
 **Moderator:**
-- Jason Kalirai, Mission Area Executive for Space Formulation, Johns Hopkins APL
+- Jason Kalirai, Mission Area Executive for Space Formulation, Johns Hopkins APL [(bio)](people/#jason-kalirai)
 
 **Panelists:**
 - Sarah Brothers, Director, Commercial Remote Sensing Regulatory Affairs Division, Office of Space Commerce, U.S. Dept. of Commerce [(bio)](people/#sarah-brothers)
@@ -120,7 +120,7 @@ As the multi-stakeholder civilian space envisioned future for a sustained presen
 Commercially-led human and robotic activities in space are becoming increasingly prevalent and are more and more shaping the future of human spaceflight.  This collaboration will extend to the Moon and eventually Mars.  The commercial spaceflight industry has a unique perspective on space exploration than has historically been different from that of government-led efforts.  The purpose of this panel is to hear from these relatively new participants on how HMT will need to evolve to most effectively support activities on the Moon and Mars.
 
 **Moderator:**
-- Alicia Carey, Formulation Manager - New Business, Johns Hopkins APL
+- Alicia Carey, Formulation Manager - New Business, Johns Hopkins APL [(bio)](people/#alicia-carey)
 
 **Panelists:**
 - Ruth Stilwell, Executive Director, Aerospace Policy Solutions, LLC [(bio)](people/#ruth-stilwell)
@@ -193,7 +193,7 @@ The envisioned future of sustained human presence on the moon will be in an envi
 
 **Moderators:**
 - Mark Shelhamer, Professor, School of Medicine, JHU [(bio)](people/#mark-shelhamer)
-- Amy Haufler, Senior National Security Analyst, Johns Hopkins APL
+- Amy Haufler, Senior National Security Analyst, Johns Hopkins APL [(bio)](people/#amy-haufler)
 
 **Panelists:**
 - Jim Riley, Astronaut
@@ -210,7 +210,7 @@ The workshop to this point will have presented various aspects and points of vie
 
 **Moderators:**
 - Karl Hibbitts, Research Scientist, Johns Hopkins APL
-- Alicia Carey, Formulation Manager - New Business, Johns Hopkins APL
+- Alicia Carey, Formulation Manager - New Business, Johns Hopkins APL [(bio)](people/#alicia-carey)
 
 **Panelists:**
 - James Bellingham, Professor and Executive Director, Institute for Assured Autonomy, JHU
