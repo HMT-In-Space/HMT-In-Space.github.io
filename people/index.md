@@ -69,6 +69,13 @@ The Honorable Christine Fox is a Senior Fellow at the Johns Hopkins University A
 <br />
 <hr />
 
+<a name="aj-gemer"></a>
+### Andrew J. (AJ) Gemer (Panel 3)
+<img src="AJ-Gemer.jpg" alt="AJ Gemer" height="180" style="float:left;margin-right:10px" />
+AJ Gemer is the Co-founder and CTO of Lunar Outpost, leading the development and deployment of critical Lunar infrastructure and enabling mankind's permanent presence on the Moon and beyond. In this role, Mr. Gemer leads technology roadmapping and investments, as well as mission design and operational guidance. He provides strategic oversight over development, testing, and integration of Lunar Outpost's line of autonomous rover platforms, scalable power and communications infrastructure, and thermal technologies to survive lunar night.
+<br />
+<hr />
+
 <a name="david-handelman"></a>
 ### David Handelman (Panel 6)
 <img src="David-Handelman.jpg" alt="David Handelman" height="180" style="float:left;margin-right:10px;" />

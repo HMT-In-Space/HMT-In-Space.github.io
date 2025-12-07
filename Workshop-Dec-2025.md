@@ -128,7 +128,7 @@ Commercially-led human and robotic activities in space are becoming increasingly
 - Ruth Stilwell, Executive Director, Aerospace Policy Solutions, LLC [(bio)](people/#ruth-stilwell)
 - Janna Lewis, Senior Vice President of Policy, Astroscale U.S.
 - Ben Bussey, Chief Scientist, Intuitive Machines
-- Andrew J. (AJ) Gemer, CTO & Co-Founder, Lunar Outpost
+- Andrew J. (AJ) Gemer, CTO & Co-Founder, Lunar Outpost [(bio)](people/#aj-gemer)
 
 ### Panel 4: Research and Analysis Stakeholder Perspective
 
