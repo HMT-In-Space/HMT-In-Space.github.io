@@ -79,7 +79,7 @@ Registration is by invitation only -- a link will be provided
 ## Agenda Details
 
 ### Introduction and Welcome
-- Amy Haufler [(bio)](people/#amy-haufler), Karl Hibbitts, Peter Kazanzides [(bio)](people/#peter-kazanzides), Mark Shelhamer [(bio)](people/#mark-shelhamer), Organizers, JHU / APL
+- Amy Haufler [(bio)](people/#amy-haufler), Karl Hibbitts [(bio)](people/#karl-hibbitts), Peter Kazanzides [(bio)](people/#peter-kazanzides), Mark Shelhamer [(bio)](people/#mark-shelhamer), Organizers, JHU / APL
 - Jason Kalirai [(bio)](people/#jason-kalirai), Mission Area Executive for Space Formulation, Johns Hopkins APL
 - James Bellingham, Professor and Executive Director, Institute for Assured Autonomy, JHU
 
@@ -211,7 +211,7 @@ The envisioned future of sustained human presence on the moon will be in an envi
 The workshop to this point will have presented various aspects and points of view on human-machine teaming in space exploration. The field will benefit from a cohesive plan of action as to the main areas to be investigated and the expertise needed. The panel will discuss and begin to chart the path forward for implementing the findings of this workshop.
 
 **Moderators:**
-- Karl Hibbitts, Research Scientist, Johns Hopkins APL
+- Karl Hibbitts, Research Scientist, Johns Hopkins APL [(bio)](people/#karl-hibbitts)
 - Alicia Carey, Formulation Manager - New Business, Johns Hopkins APL [(bio)](people/#alicia-carey)
 
 **Panelists:**

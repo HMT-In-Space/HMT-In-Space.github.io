@@ -92,6 +92,13 @@ Dr. Amy Haufler is a Sr. Analyst and Human Machine Teaming Specialist in the Nat
 <br />
 <hr />
 
+<a name="karl-hibbitts"></a>
+### Karl Hibbitts (Organizer, Panel 8 Moderator)
+<img src="Karl-Hibbitts.jpg" alt="Karl Hibbitts" height="180" style="float:left;margin-right:10px" />
+Dr. Charles Hibbitts (Karl) is Principal Professional Scientist at the Johns Hopkins University Applied Physics Laboratory. He has 20+ years in spacecraft visible & infrared remote sensing measurements and instrumentation as well as laboratory experimentation and is an expert in In-Situ Resource Utilization for the Moon. Karl also leads a community of practice at APL on HMT for lunar science and exploration.
+<br />
+<hr />
+
 <a name="jason-kalirai"></a>
 ### Jason S. Kalirai (Speaker, Panel 1 Moderator)
 <img src="Jason-Kalirai.jpg" alt="Jason Kalirai" height="180" style="float:left;margin-right:10px" />
