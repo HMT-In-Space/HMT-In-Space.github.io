@@ -13,7 +13,7 @@ layout: default
 <a name="david-akin"></a>
 ### David Akin (Panel 4 Moderator)
 <img src="David-Akin.jpg" alt="David Akin" height="180" style="float:left;margin-right:10px;" />
-David L. Akin is a Professor in the Department of Aerospace Engineering and Director of the Space Systems Laboratory at the University of Maryland. He earned SB (1974), SM (1975), and ScD (1981) degrees in Aeronautics and Astronautics from MIT. His research focuses on space operations, including dexterous robotics, spacesuit design, and human-robot interactions. He is also active in the areas of spacecraft and space habitat design, space simulation, and space systems analysis. He has over 300 professional publications in journals and conference proceedings in his 40+ year career.
+David L. Akin is a Professor in the Department of Aerospace Engineering and Director of the Space Systems Laboratory at the University of Maryland. He earned SB (1974), SM (1975), and ScD (1981) degrees in Aeronautics and Astronautics from MIT. His research focuses on space operations, including dexterous robotics, spacesuit design, and human-robot interactions. He is also active in the areas of spacecraft and space habitat design, space simulation, and space systems analysis. He has been principal investigator for several space flight systems, and for multiple experimental space suit and robotic systems. He has over 300 professional publications in journals and conference proceedings in his 40+ year career.
 <br />
 <hr />
 
