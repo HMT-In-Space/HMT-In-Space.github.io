@@ -138,14 +138,14 @@ Commercially-led human and robotic activities in space are becoming increasingly
 National labs, universities, research centers including UARCs and FFRDCs, and other private institutions and companies have historically been major stakeholders in the development of technologies for enabling the success of the US space industry and exploration of the solar system. Recently, in addition to government agencies, private organizations have begun to take a leading role in space exploration. This panel will discuss how the level of participation by these stakeholders is evolving as the space frontier is again pushed beyond Earth orbit, and specifically toward achieving the goal of a persistent presence on the Moon and eventually Mars.
 
 **Moderator:**
-- David Akin, Professor, Dept. of Aerospace Engineering, University of Maryland
+- David Akin, Professor, Dept. of Aerospace Engineering, University of Maryland [(bio)](people/#david-akin)
 
 **Panelists:**
 - James Bellingham, Professor and Executive Director, Institute for Assured Autonomy, JHU
 - Christine Fox, Senior Fellow, Johns Hopkins APL [(bio)](people/#christine-fox)
 - Robert Braun, Space Sector Head, Johns Hopkins APL, and Professor, Dept. of Mechanical Engineering, JHU [(bio)](people/#robert-braun)
 - David Koelle, Director of Engineering, Human-Centered AI, Charles River Analytics [(bio)](people/#david-koelle)
-- Federico Rossi, Robotics Technologist, Jet Propulsion Laboratory (JPL) [(bio)](people/#federico-rossi)
+- Federico Rossi, Robotics Technologist, Robotic Mobility and Manipulation, Jet Propulsion Laboratory (JPL) [(bio)](people/#federico-rossi)
 
 ### Keynote and Discussion
 
@@ -183,7 +183,7 @@ The objective is to extract cross-domain lessons on how humans and autonomous sy
 **Panelists:**
 - Shirley Dyke, Professor, School of Mechanical Engineering, Purdue University [(bio)](people/#shirley-dyke)
 - David Handelman, Senior Research Scientist, Robotics & Intelligent Systems, Johns Hopkins APL [(bio)](people/#david-handelman)
-- Julie Townsend, Assistant Section Manager, Jet Propulsion Laboratory (JPL) [(bio)](people/#julie-townsend)
+- Julie Townsend, Assistant Section Manager, Robotic Mobility and Manipulation, Jet Propulsion Laboratory (JPL) [(bio)](people/#julie-townsend)
 - Steve McGuire, Assistant Professor and Lead, Human-Aware Robotic Exploration Lab, University of California Santa Cruz [(bio)](people/#steve-mcguire)
 
 ### Panel 7: Astronaut Perspectives on HMT Operations
