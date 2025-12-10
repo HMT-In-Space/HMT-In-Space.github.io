@@ -198,7 +198,7 @@ The envisioned future of sustained human presence on the moon will be in an envi
 - Amy Haufler, Senior National Security Analyst, Johns Hopkins APL [(bio)](people/#amy-haufler)
 
 **Panelists:**
-- Jim Riley, Astronaut
+- Jim Reilly, Astronaut
 - Michael Lopez-Alegria, Chief Astronaut, Axiom Space [(bio)](people/#michael-lopez-alegria)
 - Dan Tani, Astronaut [(bio)](people/#dan-tani)
 - Alvin Drew, Astronaut, Director for Space Sustainability, NASA
